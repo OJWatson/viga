@@ -1,11 +1,11 @@
-Package: cmptmp
+Package: viga
 Type: Package
-Title: cmptmp_title
+Title: Vaccine Impact Gaza Analysis
 Version: 0.1.0
 Authors@R: c(
-  person("OJ", "Watson", email = "o.watson15@imperial.ac.uk", role = c("aut", "cre"))
+  person("Nisreen", "Shehada", email = "nms24@ic.ac.uk", role = c("aut", "cre"))
   )
-Description: cmptmp_description
+Description: R research compendium for storing analysis of the impact of vaccination on future outbreaks in Gaza.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
