@@ -1,0 +1,19 @@
+Package: viga
+Type: Package
+Title: Vaccine Impact Gaza Analysis
+Version: 0.1.0
+Authors@R: c(
+  person("OJ", "Watson", email = "o.watson15@imperial.ac.uk", role = c("aut", "cre"))
+  )
+Description: R research compendium for storing analysis of the impact of vaccination on future outbreaks in Gaza.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    here,
+    cowplot,
+    ggplot2,
+    magrittr
+Suggests:
+    devtools
+RoxygenNote: 7.1.2
